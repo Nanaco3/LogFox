@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="selected_count">
-        <item quantity="one">%d item selected</item>
-        <item quantity="other">%d items selected</item>
+        <item quantity="one">%d つ選択されています</item>
+        <item quantity="other">%d つ選択されています</item>
     </plurals>
     <plurals name="filters_count">
-        <item quantity="one">%d filter</item>
-        <item quantity="other">%d filters</item>
+        <item quantity="one">%d つのフィルタ</item>
+        <item quantity="other">%d つのフィルタ</item>
     </plurals>
 </resources>
